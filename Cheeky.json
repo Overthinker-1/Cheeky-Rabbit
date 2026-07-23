@@ -1,8 +1,10 @@
 {
+  "spec": 1,
   "name": "Cheeky Rabbit",
-  "fonts": {
-    "ggsans-Normal": "https://raw.githubusercontent.com/Overthinker-1/Cheeky-Rabbit/main/Cheeky%20Rabbit%20400.ttf",
-    "ggsans-Medium": "https://raw.githubusercontent.com/Overthinker-1/Cheeky-Rabbit/main/Cheeky%20Rabbit%20400.ttf",
-    "ggsans-Bold": "https://raw.githubusercontent.com/Overthinker-1/Cheeky-Rabbit/main/Cheeky%20Rabbit%20400.ttf"
+  "previewText": "Fonte Cheeky Rabbit",
+  "main": {
+    "ggsans-Bold": "https://github.com/Overthinker-1/Cheeky-Rabbit/blob/main/Cheeky%20Rabbit%20400.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/Overthinker-1/Cheeky-Rabbit/blob/main/Cheeky%20Rabbit%20400.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/Overthinker-1/Cheeky-Rabbit/blob/main/Cheeky%20Rabbit%20400.ttf?raw=1"
   }
 }
